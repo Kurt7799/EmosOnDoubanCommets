@@ -1,2 +1,5 @@
 Dr.Strange.csv : it contains about 14000 comments on Douban.com
 pos.txt & neg.txt : dict of emos by HowNet
+
+The matrix "testterm" may be sparsity. 
+In other words u need a very big comments dataset or a efficient dict to improve the model.
